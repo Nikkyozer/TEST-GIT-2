@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 console.error('Hello World')
 
 const userAge = 35
@@ -5,6 +6,15 @@ if (userAge >= 18) {
     console.log('Вы совершеннолетний')
 } else {
     console.log('Вы НЕ совершеннолетний')
+=======
+console.log('Hello')
+
+const age = 20
+if (age >= 18) {
+    console.log('Вы совершеннолетний')
+} else {
+    console.log('Вы не совершеннолетний')
+>>>>>>> feature/user-access
 }
 
 // git remote origin url  --- этой командой мы привязываем репозиторий к нашей папке
